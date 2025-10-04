@@ -4,6 +4,7 @@
 >
 > - [Introduction](#introduction)
 > - [Custom Domain Email Setup Guide](#custom-domain-email-setup-guide)
+>   
 >   > 1. [Overview](#1-overview)
 >   > 2. [Cloudflare Email Routing Setup](#2-cloudflare-email-routing-setup)
 >   > 3. [Receiving Emails in Gmail](#3-receiving-emails-in-gmail)
@@ -11,7 +12,7 @@
 >   > 5. [Email Authentication (SPF, DKIM, DMARC)](#5-email-authentication-spf-dkim-dmarc)
 >   > 6. [Common Issues & Fixes](#6-common-issues--fixes)
 >   > 7. [Understanding the Protocols](#7-understanding-the-protocols)
->   > 8. [Optional:  Advanced Security (Cloudflare Zero Trust)](#optional-advanced-security-cloudflare-zero-trust)
+>   > 8. [Optional:  Advanced Security (Cloudflare Zero Trust)](#8-optional--advanced-security-cloudflare-zero-trust)
 >   > 9. [Example Final DNS Records (Simplified)](#9-example-final-dns-records-simplified)
 >   > 10. [Recommendations](#10-recommendations)
 
