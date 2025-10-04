@@ -4,16 +4,16 @@
 >
 > - [Introduction](#introduction)
 > - [Custom Domain Email Setup Guide](#custom-domain-email-setup-guide)
->   > 1. [Overview](#overview)
->   > 2. [Cloudflare Email Routing Setup](#cloudflare-email-routing-setup)
->   > 3. [Receiving Emails in Gmail](#receiving-emails-in-gmail)
->   > 4. [Sending Emails (SMTP Configuration)](#sending-emails-(smtp-configuration))
->   > 5. [Email Authentication (SPF, DKIM, DMARC)](#email-authentication-(spf
->   > 6. [Common Issues & Fixes](#common-issues-&-fixes)
->   > 7. [Understanding the Protocols](#understanding-the-protocols)
->   > 8. [Optional:  Advanced Security (Cloudflare Zero Trust)]
->   > 9. [Example Final DNS Records (Simplified)](#example-final-dns-records-(simplified))
->   > 10. [Recommendations](#recommendations)
+>   > 1. [Overview](#1-overview)
+>   > 2. [Cloudflare Email Routing Setup](#2-cloudflare-email-routing-setup)
+>   > 3. [Receiving Emails in Gmail](#3-receiving-emails-in-gmail)
+>   > 4. [Sending Emails (SMTP Configuration)](#4-sending-emails-smtp-configuration)
+>   > 5. [Email Authentication (SPF, DKIM, DMARC)](#5-email-authentication-spf-dkim-dmarc)
+>   > 6. [Common Issues & Fixes](#6-common-issues--fixes)
+>   > 7. [Understanding the Protocols](#7-understanding-the-protocols)
+>   > 8. [Optional:  Advanced Security (Cloudflare Zero Trust)](#optional-advanced-security-cloudflare-zero-trust)
+>   > 9. [Example Final DNS Records (Simplified)](#9-example-final-dns-records-simplified)
+>   > 10. [Recommendations](#10-recommendations)
 
 
 <br>
@@ -52,7 +52,7 @@ The Github repo of the website is [Github Repo](https://github.com/Technozamazin
 
 <br>
 
-## 📧 Custom Domain Email Setup Guide  
+## Custom Domain Email Setup Guide  
 **For:** romanstha.com.np  
 **Author:** Roman Shrestha  
 **Purpose:** Use `contact@romanstha.com.np` for sending and receiving emails through Gmail, Cloudflare, and SMTP (SendGrid/Brevo).
