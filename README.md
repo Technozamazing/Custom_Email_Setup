@@ -3,17 +3,17 @@
 > Custom Email Setup
 >
 > - Introduction
-> > - Custom Domain Email Setup Guide
-> > > > 1. Overview
-> > > > 2. Cloudflare Email Routing Setup
-> > > > 3. Receiving Emails in Gmail
-> > > > 4. Sending Emails (SMTP Configuration)
-> > > > 5. Email Authentication (SPF, DKIM, DMARC)
-> > > > 6. Common Issues & Fixes
-> > > > 7. Understanding the Protocols
-> > > > 8. Optional:  Advanced Security (Cloudflare Zero Trust)
-> > > > 9. Example Final DNS Records (Simplified)
-> > > > 10. Recommendations
+> - Custom Domain Email Setup Guide
+> > 1. Overview
+> > 2. Cloudflare Email Routing Setup
+> > 3. Receiving Emails in Gmail
+> > 4. Sending Emails (SMTP Configuration)
+> > 5. Email Authentication (SPF, DKIM, DMARC)
+> > 6. Common Issues & Fixes
+> > 7. Understanding the Protocols
+> > 8. Optional:  Advanced Security (Cloudflare Zero Trust)
+> > 9. Example Final DNS Records (Simplified)
+> > 10. Recommendations
 
 
 <br>
